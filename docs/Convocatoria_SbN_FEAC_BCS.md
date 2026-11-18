@@ -44,15 +44,28 @@ No son objeto de esta convocatoria los proyectos exclusivamente de infraestructu
 
 # III. Quién puede participar
 
-- **Sector público estatal y municipal:** dependencias y órganos desconcentrados; municipios; paraestatales, empresas de participación estatal y fideicomisos públicos.
-- **Sociedad civil y academia:** organizaciones de la sociedad civil, organizaciones comunitarias y ejidales, instituciones académicas e instituciones técnicas especializadas.
-- **Personas físicas.**
+**[POR DEFINIR EN ROP]**. El Decreto que crea el Fondo no establece quiénes pueden solicitar apoyos. Su artículo 4 remite la elegibilidad a las Reglas de Operación, y su artículo 14 prevé la asignación de recursos mediante convocatorias públicas, invitaciones específicas o esquemas estratégicos aprobados por el Comité Técnico.
+
+Como propuesta, retomada del sistema de priorización de Forest Trends, podrían participar: organizaciones comunitarias y ejidales, organizaciones de la sociedad civil, ONG, instituciones académicas, empresas, entidades públicas estatales y municipales, y personas físicas. Cada convocatoria podrá acotar a los solicitantes.
 
 **[POR DEFINIR EN ROP: reglas para proyectos en consorcio o con participación pública y privada.]**
 
 # IV. Tipos de proyecto, tipos de apoyo y montos
 
-**Tipos de proyecto:** estudios y obra; asistencia técnica; programas; instrumentos; educación ambiental; monitoreo.
+**Tipos de proyecto** (enunciativos, no limitativos):
+
+| Tipo de proyecto | Descripción |
+|---|---|
+| **Intervenciones en el territorio** | |
+| 1. Estudios y proyectos ejecutivos | Diagnósticos, estudios técnicos y diseño de SbN |
+| 2. Obras y acciones de conservación, restauración e infraestructura verde | Construcción, restauración o rehabilitación de SbN, incluido su mantenimiento |
+| 3. Programas | Conjuntos de acciones SbN en varios sitios o etapas |
+| **Intervenciones de gestión** | |
+| 4. Instrumentos de ordenamiento y planeación | Elaboración, actualización e implementación de ordenamientos, programas de manejo, estudios justificativos de áreas protegidas, paletas vegetales e inventarios de arbolado |
+| 5. Fortalecimiento de capacidades y asistencia técnica | Capacitación de instituciones y comunidades, incluidas las capacidades de inspección, vigilancia y cumplimiento; apoyo para preparar proyectos SbN |
+| 6. Educación ambiental, comunicación y participación social | Acciones educativas y de comunicación ligadas a SbN |
+| 7. Investigación, innovación y transferencia de tecnología | Generación de evidencia sobre SbN y valoración de servicios ecosistémicos |
+| 8. Monitoreo y generación de datos | Líneas base, indicadores y sistemas de seguimiento de SbN |
 
 **Tipos de apoyo:** préstamo o cofinanciamiento; aportación a fondo perdido; inversión de capital; garantía; subvención o subsidio.
 
@@ -72,8 +85,8 @@ El solicitante entregará un expediente firmado con lo siguiente:
 1. **Solicitud de apoyo** y aceptación de las obligaciones de las ROP **[Formato — Anexo 1]**.
 2. **Descripción del proyecto** que muestre que es una SbN y a qué fracciones del artículo 4 contribuye **[Formato — Anexo 2]**.
 3. **Alineación** con al menos un instrumento de planeación vigente (cita del instrumento y de la línea u objetivo).
-4. **Ubicación:** mapa o polígono del área de intervención y carta de apoyo de la autoridad competente.
-5. **Análisis de impactos** y autorizaciones, exenciones o avisos ambientales que exija la legislación aplicable, o ruta para tramitarlos antes de iniciar.
+4. **Ubicación:** mapa o polígono del área de intervención o de estudio, y carta de apoyo de la autoridad competente.
+5. **Análisis de impactos** y, cuando apliquen según el tipo de proyecto, autorizaciones, exenciones o avisos ambientales que exija la legislación, o ruta para tramitarlos antes de iniciar.
 6. **Propuesta técnica y financiera:** apartado técnico-operativo, presupuesto, análisis costo-beneficio, plan de trabajo, cronograma y plan de contingencias **[Formato — Anexo 3]**.
 7. **Indicadores de beneficio** con unidad, valor actual (o método para obtenerlo) y meta, y descripción de las personas o comunidades beneficiadas.
 8. **Documentos del solicitante:** acta constitutiva o nombramiento, RFC, opinión de cumplimiento fiscal y, en su caso, acreditación de facultades para firmar convenios.
@@ -84,11 +97,13 @@ El solicitante entregará un expediente firmado con lo siguiente:
 
 | Tipo de proyecto | Documentos adicionales |
 |---|---|
-| Obra o intervención física | Proyecto ejecutivo (planos, memoria descriptiva, catálogo de conceptos, presupuesto y calendario de obra); acreditación de la propiedad o posesión del predio, o permiso del dueño o convenio; uso de suelo y autorizaciones ambientales aplicables; plan de mantenimiento |
-| Estudios e instrumentos | Términos de referencia; validación de la dependencia o entidad competente |
-| Asistencia técnica y programas | Plan de trabajo con productos esperados por etapa |
-| Educación ambiental y capacitación | Cartas descriptivas de cursos o eventos y población objetivo |
-| Equipamiento (viveros, monitoreo, vigilancia) | Cotizaciones de los bienes a adquirir **[número de cotizaciones POR DEFINIR EN ROP]** |
+| 1. Estudios y proyectos ejecutivos | Términos de referencia |
+| 2. Obras y acciones / 3. Programas | Proyecto ejecutivo (planos, memoria descriptiva, catálogo de conceptos, presupuesto y calendario de obra); acreditación de la propiedad o posesión del predio, o permiso del dueño o convenio; uso de suelo y autorizaciones ambientales aplicables; plan de mantenimiento. En programas, además, plan de trabajo por sitio o etapa |
+| 4. Instrumentos de ordenamiento y planeación | Términos de referencia; validación de la dependencia o entidad competente |
+| 5. Fortalecimiento de capacidades y asistencia técnica | Plan de trabajo con productos esperados por etapa y población o instituciones objetivo |
+| 6. Educación ambiental, comunicación y participación social | Cartas descriptivas de cursos, eventos o campañas y población objetivo |
+| 7. Investigación, innovación y transferencia de tecnología | Protocolo de investigación con preguntas, metodología y productos esperados |
+| 8. Monitoreo y generación de datos | Plan de monitoreo con indicadores, metodología, frecuencia y uso de la información |
 
 # VI. Procedimiento
 
@@ -111,17 +126,17 @@ Los criterios se organizan en cinco grupos: **Objetivos, Territorio, Finanzas, E
 
 ## Paso 1. Requisitos mínimos (Sí / No)
 
-| Grupo | Requisito | Tipo |
-|---|---|---|
-| Objetivos | 1. Es una SbN y contribuye al artículo 4 | Indispensable |
-| | 2. Alineación a instrumentos de planeación | Indispensable |
-| Territorio | 3. Ubicación y respaldo institucional | Indispensable |
-| | 4. Evita o minimiza impactos y cuenta con las autorizaciones ambientales aplicables | Indispensable |
-| Finanzas | 5. Propuesta técnica y financiera | Corregible |
-| | 6. Promovente en regla y monto dentro del rango | Indispensable |
-| Evidencia | 7. Beneficio ambiental y social cuantificable | Indispensable |
+| Grupo | Requisito |
+|---|---|
+| Objetivos | 1. Es una SbN y contribuye al artículo 4 |
+| | 2. Alineación a instrumentos de planeación |
+| Territorio | 3. Ubicación y respaldo institucional |
+| | 4. Evita o minimiza impactos y cuenta con las autorizaciones ambientales aplicables |
+| Finanzas | 5. Propuesta técnica y financiera |
+| | 6. Promovente en regla y monto dentro del rango |
+| Evidencia | 7. Beneficio ambiental y social cuantificable |
 
-Si falla un requisito indispensable, el proyecto no participa. Si la propuesta técnica y financiera está incompleta, el proyecto participa «con fortalecimiento».
+Todos los requisitos son indispensables: si el proyecto no cumple alguno, se descarta. Antes de decidir, se pide una sola vez al promovente la información faltante (ver apartado VI).
 
 ## Paso 2. Calificación (1 a 3 puntos por criterio)
 
@@ -137,6 +152,8 @@ Si falla un requisito indispensable, el proyecto no participa. Si la propuesta t
 | | Alianzas | ×1 |
 
 **Puntaje total: de 10 a 30.**
+
+El criterio de Impacto se califica con las fichas preliminares de impacto por tema (Anexo B), que indican qué es un impacto alto, medio o bajo y con qué se compara. Podrán ajustarse conforme a las ROP.
 
 | Prioridad | Puntos |
 |---|---|
@@ -178,6 +195,7 @@ Dada en **[ciudad]**, Baja California Sur, a **[fecha]**.
 # Anexos
 
 - **Anexo A.** Criterios de evaluación de SbN que pueden ser financiadas por el FEAC BCS.
+- **Anexo B.** Fichas preliminares de impacto por tema **[en elaboración; ajustables conforme a las ROP]**.
 - **Anexo 1.** Formato de solicitud **[por elaborar]**.
 - **Anexo 2.** Formato de descripción del proyecto **[por elaborar]**.
 - **Anexo 3.** Formato de presupuesto, programa de actividades y calendario **[por elaborar]**.
