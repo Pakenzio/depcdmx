@@ -153,7 +153,7 @@ Todos los requisitos son indispensables: si el proyecto no cumple alguno, se des
 
 **Puntaje total: de 10 a 30.**
 
-El criterio de Impacto se califica con las fichas preliminares de impacto por tema (Anexo B), que indican qué es un impacto alto, medio o bajo y con qué se compara. Podrán ajustarse conforme a las ROP.
+El criterio de Impacto se califica con las fichas preliminares de impacto por tema (sección 7 del Anexo A), que indican qué es un impacto alto, medio o bajo y con qué se compara. Podrán ajustarse conforme a las ROP.
 
 | Prioridad | Puntos |
 |---|---|
@@ -195,7 +195,6 @@ Dada en **[ciudad]**, Baja California Sur, a **[fecha]**.
 # Anexos
 
 - **Anexo A.** Criterios de evaluación de SbN que pueden ser financiadas por el FEAC BCS.
-- **Anexo B.** Fichas preliminares de impacto por tema **[en elaboración; ajustables conforme a las ROP]**.
 - **Anexo 1.** Formato de solicitud **[por elaborar]**.
 - **Anexo 2.** Formato de descripción del proyecto **[por elaborar]**.
 - **Anexo 3.** Formato de presupuesto, programa de actividades y calendario **[por elaborar]**.
